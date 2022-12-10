@@ -1,0 +1,84 @@
+body{
+    background: #f8f8f8 !important;
+}
+
+.hero{
+    margin: 30vh 0 50vh 0;
+    justify-content: center;
+}
+
+.navbar{
+    justify-content: space-around !important;
+}
+
+.avatar{
+
+}
+
+h1{
+    font-family: 'Gilroy-Heavy', sans-serif;
+    font-size: 10vh !important;
+    color: #6B2C09;
+}
+
+h4{
+    font-family: 'Gilroy-Heavy', sans-serif;
+    color: #6B2C09;
+    font-size: 18px !important;
+}
+
+p{
+    font-family: 'Avalon', sans-serif;
+    color: #291F1E;
+    font-size: 12px;
+    margin-bottom: 0.5rem !important;
+}
+
+.navbar{
+    /* background: linear-gradient(180deg,#fefaf6 2.42%,#fdf5ee); */
+    background: #f8f8f8;
+}
+
+.nav-link{
+    font-family: 'Avalon', sans-serif !important;
+    color: #6B2C09 !important;
+    margin: 0 25px 0 25px;
+
+}
+
+a.navbar-brand{
+    font-family: 'Gilroy-Heavy', sans-serif;
+    color: #6B2C09 !important;
+    margin-left: 50px;
+}
+
+.about-container{
+    padding: 15vh 20vw 0 20vw;
+}
+
+p.about-title{
+    font-family: 'Gilroy-Medium', sans-serif !important;
+    color: #6B2C09;
+    font-size: 14px !important;
+}
+a.about-title{
+    font-family: 'Gilroy-Light', sans-serif !important;
+    /* color: #6B2C09 !important; */
+    color: #6B2C09;
+    font-size: 12px !important;
+    text-decoration: none;
+}
+
+.date-location{
+    color: #92817A;
+    font-size: 12px;
+}
+
+.about-section-title{
+    margin-bottom: 25px;
+}
+
+.about-card{
+    margin-bottom: 20px;
+}
+
